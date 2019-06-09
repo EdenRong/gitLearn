@@ -6,7 +6,8 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		System.out.println("321");
 
-		System.out.println("32333331123");
+		System.out.println("328833331123");
+		System.out.println("32773331123");
 
 		System.out.println("123");
 
