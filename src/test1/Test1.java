@@ -8,9 +8,7 @@ public class Test1 {
 
 		System.out.println("328833331123");
 
-		System.out.println("32773331123");
-
-		System.out.println("123");
+		
 
 		System.out.println("123");
 		System.out.println("321");
