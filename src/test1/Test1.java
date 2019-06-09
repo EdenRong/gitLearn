@@ -9,7 +9,7 @@ public class Test1 {
 		System.out.println("32333331123");
 
 		System.out.println("123");
-		System.out.println("123");
+		System.out.println("321");
 	}
 
 }
