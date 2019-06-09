@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+#nav{width:1350px;}
+a{text-decoration:none;}
+a:link{color:#000;}
+a:visited{color:#000;}
+a:hover{color:#F90;}
+a:active{color:#06F;}
+#nav .a{background-color:#F4F4F4;width:1350px;height:100px;}
+#nav .a .nav1{width:800px;float:left;text-align:right;color:#00C;font-size:50px;font-weight:900;font-family:"正楷";padding-top:10px;}
+#nav .a .nav1 span{font-size:25px;font-weight:500;font-family:"隶书";color:#3C9DFF;font-style:oblique;}
+#nav .a .nav2{text-align:center;padding-top:60px;font-size:16px;color:#000;font-weight:bold;letter-spacing:1px;}
+#nav .a .nav2 span{font-size:30px;color:#09F;letter-spacing:3px;font-style:oblique;}
+#nav .b{height:15px;background-color:#EBEBEB;padding-left:280px;padding-top:1px;padding-bottom:25px;border-top:1px #CFCFCF solid;border-bottom: #CFCFCF solid 1px;font-weight:600;}
+#nav .b .1{float:left;padding-right:100px;}
+#nav .b dl{text-align:center;}
+#nav .b dl dt{float:left;margin:0 50px;}
+#nav .c{margin-top:10px;width:1350px;}
+#nav .c .nav1{padding-top:10px;height:20px;background-color:#EAEAEA;}
+#nav .d{height:240px;margin-top:20px;}
+#nav .e{width:80%;height:30px;background-color:#D5D5D5;border-top:1px #5A5A5A solid;margin-left:10%;color:#03F;font-family:"宋体";font-weight:600;
+font-style:italic;font-size:20px;padding-top:5px;}
+#nav .f{width:1350px;height:120px;background-color:#004B97;font-size:14px;text-align:center;margin-top:180px;color:#CCC;letter-spacing:5px;padding-top:1px;line-height:20px;clear:both;}
+
+/*公司简介*/
+#nav .g{width:1080px;margin-left:150px;margin-top:30px;}
+#nav .g .nav1{width:300px;float:left;line-height:30px;height:350px;font-size:18px;color:#2D2D2D;font-family:"隶书";padding-top:50px;color:#6c6c6c;}
+#nav .g .nav1 span{color:#42A0FF;font-size:18px;font-weight:600;}
+#nav .g .nav2{font-size:13px;font-weight:600;letter-spacing:2px;line-height:28px;color:#2D2D2D;}
+#nav .g .nav2 span{font-size:12px;color:#6C6C6C;}
+
+/*新闻中心*/
+#nav .h span{font-size:12px;color:#6C6C6C;}
+#nav .h .i{font-size:18px;font-weight:700;color:#000;height:50px;line-height:25px;}
+#nav .h .i span{font-size:16px;font-weight:400;color:#000;}
+
+/*产品中心*/
+#nav .j dl dt{float:left;padding-right:5px;padding-top:5px;height:230px;}
+
+/*联系我们*/
+#nav .g .nav2 .nav21{font-size:36px;margin-top:20px;letter-spacing:2px;line-height:50px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
